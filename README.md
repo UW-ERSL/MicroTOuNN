@@ -1,7 +1,9 @@
 # MicroTOuNN
-## Microstructural Optimization using Neural Networks
+## A Generalized Framework for Microstructural Optimization using Neural Networks
+[Arxiv](https://arxiv.org/abs/2207.06512)
 
 Saketh Sridhara, Aaditya Chandrasekhar and Krishnan Suresh \
+[Engineering Representations and Simulation Lab](https://ersl.wisc.edu)
 University of Wisconsin-Madison, Madison, WI, USA
 
 ### Abstract
